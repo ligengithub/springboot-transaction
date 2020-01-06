@@ -1,0 +1,11 @@
+server:
+  port: 8082
+
+
+spring:
+  application:
+    name: demo
+  datasource:
+    url: jdbc:mysql://xxx.xxx.xxx.xxx:3306/db1?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
